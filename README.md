@@ -1,8 +1,10 @@
 # Netflix clone
 
+
 Overview
 
 This project is a Netflix clone, developed as part of a project assignment by CodersCave. It aims to replicate the key features and design of the popular streaming platform, allowing users to explore a curated collection of movies, TV shows, and trailers. The clone offers functionalities such as account creation, language selection, and dynamic content sliders.
+
 
 
 Features
@@ -18,6 +20,7 @@ Language Selection: Choose between English, Hindi, and Tamil for a personalized 
 Account Sign-In: Sign in to your account to access premium content and personalized recommendations.
 
 
+
 Technologies Used
 
 HTML5, CSS3: For the structure and styling of the web pages.
@@ -27,6 +30,7 @@ JavaScript (Vanilla and jQuery): To implement dynamic features and interactivity
 Responsive Design: Ensures optimal viewing on devices of all sizes.
 
 GitHub Pages: Hosts the project for easy access.
+
 
 
 How to Run
